@@ -1,4 +1,10 @@
 package com.alican.aydin.myapplicationgithubtest
 
-class Ozellik2 {
+
+
+import androidx.compose.runtime.Composable
+
+
+@Composable
+fun Ozellik2() {
 }
